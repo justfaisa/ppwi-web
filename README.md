@@ -11,6 +11,6 @@ cd ppwi-web
 ## Demo
 - https://ppwi.glitch.me
 
-## Communities Contact
+## Community Contact
 - [Discord Server](https://discord.gg/)
 - [Email](mailto:support@ppwi.com)
