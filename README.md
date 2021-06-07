@@ -7,4 +7,7 @@ git clone https://github.com/justfaisa/ppwi-web
 cd ppwi-web
 ```
 ## Web
-https://ppwi.glitch.me
+- https://ppwi.glitch.me
+
+## Communities
+- [Discord Server](https://discord.gg/)
