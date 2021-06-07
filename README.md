@@ -11,3 +11,4 @@ cd ppwi-web
 
 ## Communities
 - [Discord Server](https://discord.gg/)
+- [Email](mailto:support@ppwi.com)
