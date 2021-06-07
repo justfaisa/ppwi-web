@@ -6,7 +6,7 @@
 git clone https://github.com/justfaisa/ppwi-web
 cd ppwi-web
 ```
-## Web
+## Demo
 - https://ppwi.glitch.me
 
 ## Communities
