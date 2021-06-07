@@ -6,7 +6,6 @@ PPWI Website Portfolio Made with Bootstrap
 ## Fork This
 ```bash
 git clone https://github.com/justfaisa/ppwi-web
-cd ppwi-web
 ```
 ## Demo
 - https://ppwi.glitch.me
