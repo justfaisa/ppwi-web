@@ -3,7 +3,7 @@
 -------
 PPWI Website Portfolio Made with Bootstrap
 
-## Fork This
+## Fork
 ```bash
 git clone https://github.com/justfaisa/ppwi-web
 ```
