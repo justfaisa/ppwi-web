@@ -11,5 +11,5 @@ git clone https://github.com/justfaisa/ppwi-web
 - https://ppwi.glitch.me
 
 ## Community Contact
-- [Discord Server](https://discord.gg/)
+- [Discord Server](https://discord.gg/nykwJmmrXz)
 - [Email](mailto:support@ppwi.com)
