@@ -5441,3 +5441,7 @@ body.search-is-visible {
         padding-top: var(--vspace-1);
     }
 }
+
+img {
+        border-radius: 50%;
+}
