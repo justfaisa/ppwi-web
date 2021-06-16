@@ -4273,7 +4273,7 @@ body.search-is-visible {
 }
 
 .team-member img {
-    margin-bottom: 0;
+    border-radius: 50%;
 }
 
 .team-member__name {
@@ -5440,8 +5440,4 @@ body.search-is-visible {
     .comment-respond form {
         padding-top: var(--vspace-1);
     }
-}
-
-img {
-        border-radius: 50%;
 }
